@@ -1,2 +1,0 @@
-# facebookloader
-Created with CodeSandbox
